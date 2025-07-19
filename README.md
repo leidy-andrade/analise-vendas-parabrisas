@@ -26,6 +26,10 @@ Este projeto apresenta uma análise interativa de vendas de uma loja de Para-Bri
 > A base de dados utilizada é fictícia e contém mais de 50 mil registros.
  
 ---
+## 🖼 Visual do Dashboard
+
+![Dashboard Power BI](./docs/dashboard-preview.png)
+---
 
 ## 📈 Principais Análises no Dashboard
 
