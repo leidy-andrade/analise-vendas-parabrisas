@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas – Projeto Power BI + Figma
 
-Este projeto apresenta uma análise interativa de vendas utilizando o Power BI, com apoio de design visual criado no Figma. A base de dados é fictícia e representa vendas de produtos automotivos  ao longo de 4 anos, com mais de 50 mil registros.
+Este projeto apresenta uma análise interativa de vendas de uma loja de Para-Brisas utilizando o Power BI, com apoio de design visual criado no Figma. 
 
 ---
 
@@ -18,3 +18,27 @@ Este projeto apresenta uma análise interativa de vendas utilizando o Power BI, 
 - `/powerbi` → Arquivo `.pbix` com a análise interativa + dashboard
 - `/figma` → Protótipo visual do dashboard 
 - `/docs` → Pdf do relatório + imagem usada no fundo
+
+---
+ 
+## 📌 Sobre a Base de Dados
+
+> A base de dados utilizada é fictícia e contém mais de 50 mil registros.
+ 
+---
+
+## 📈 Principais Análises no Dashboard
+
+- Ranking Top 3 Vendedores
+- Total de vendas por ano (2021 a 2024)
+- Ticket médio por cliente
+- Produtos e categorias mais vendidos
+- Desempenho por cargo da equipe
+- Evolução mensal das vendas
+
+---
+
+
+Feito com 💙 por Leidiane Andrade
+
+
